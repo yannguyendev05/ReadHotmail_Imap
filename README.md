@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/240469064_10101815466063430_5797897628026328075_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=eo-2oHf1XHQAX9f0iuK&_nc_ht=scontent.fdad1-2.fna&oh=22227f402c2f9d02787b4f864b183725&oe=61991209" alt="Logo" width="80" height="80">
+    <img src="image/mail.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Read Hotmail Using IMAP</h3>
@@ -39,14 +39,14 @@
   <p align="center">
     NTDTeam is a Library Support Read Hotmail and Outlook by IMAP Easier
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href=""><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://yansoftware.vn/">Visit My Website</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://www.facebook.com/YanNguyenDev.Official">Contact Me</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://api.yansoftware.vn/">Free API</a>
   </p>
 </div>
 
