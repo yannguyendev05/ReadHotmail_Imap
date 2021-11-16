@@ -32,6 +32,7 @@
   <a href="https://www.facebook.com/YanNguyenDev.Official">
     <img src="image/manhinh.png">
   </a>
+  <p>NTDTeam is a Library Support Read Hotmail and Outlook by IMAP Easier. The library will read the mail and return the result as the content of the email in HTML form to convenient REGEX the data !!!</p>
 </div>
 
 <!-- GETTING STARTED -->
