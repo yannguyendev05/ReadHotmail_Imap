@@ -1,5 +1,3 @@
-# ReadHotmail_Imap
-NTDTeam is a Library Support Read Hotmail and Outlook by IMAP Easier
 
 <div id="top"></div>
 <!--
@@ -36,10 +34,10 @@ NTDTeam is a Library Support Read Hotmail and Outlook by IMAP Easier
     <img src="https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/240469064_10101815466063430_5797897628026328075_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=eo-2oHf1XHQAX9f0iuK&_nc_ht=scontent.fdad1-2.fna&oh=22227f402c2f9d02787b4f864b183725&oe=61991209" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Read Hotmail Using IMAP</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    NTDTeam is a Library Support Read Hotmail and Outlook by IMAP Easier
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
