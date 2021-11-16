@@ -38,9 +38,19 @@
 <!-- GETTING STARTED -->
 ## Getting Started
   # Installation via [NuGet](https://www.nuget.org/)
+   * METHOD 1: Using Package Manager Console
 ```
 PM> Install-Package NTDTeam -Version 1.0.0
 ```
+   * METHOD 1: Using Nuget Package Manager
+
+<div align="center">
+  <a href="https://www.facebook.com/YanNguyenDev.Official">
+    <img src="nugetpackage.png">
+  </a>
+</div>
+
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -80,15 +90,6 @@ foreach (string mail in Mails)
   Console.WriteLine(mail);
 }
 ```
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ## Donate
 - **Paypal**: mindun94203@gmail.com - Nguyen Ngoc Tung Duong
