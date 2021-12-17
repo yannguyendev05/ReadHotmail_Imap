@@ -63,7 +63,7 @@ using NTDTeam;
  string email = "YanNguyenDevdemo@hotmail.com"; //Email Address That Turned ON IMAP
  string passemail = "PassDemo@2005"; //Password Of Email Above
  int timeout = 10; //Number Of Times To Check Mailboxes
- List<string> Mails = new List<string>; //Declare mailbox as list
+ List<string> Mails = new List<string>(); //Declare mailbox as list
 ```
 ### Step 2: Use one of the following functions
 1. Read All Mails In Inbox:
