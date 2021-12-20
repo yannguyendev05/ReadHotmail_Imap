@@ -42,7 +42,7 @@
 ```
 PM> Install-Package NTDTeam -Version 1.0.0
 ```
-   * METHOD 1: Using Nuget Package Manager
+   * METHOD 2: Using Nuget Package Manager
 
 <div align="center">
   <a href="https://www.facebook.com/YanNguyenDev.Official">
